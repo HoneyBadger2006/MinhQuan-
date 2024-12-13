@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Computer science sharing my journey and learning at tech<br>🏫Studied [Computer science] at Seattle, WA, United States<br>📹Enthusiastic in making film, video Youtube(https://studio.youtube.com/video/Jz7robbMdT0/edit)<br>💭Currently learning about the basis of computer science and data structure
+💻Computer science sharing my journey and learning at tech<br>🏫Studied [Computer science] at Seattle, WA, United States<br>📹Enthusiastic in making film, video Youtube(https://youtu.be/Jz7robbMdT0?si=LU8WdY2wULvnoDvU)<br>💭Currently learning about the basis of computer science and data structure
 
 
 ## 🌐 Socials:
