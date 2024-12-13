@@ -5,4 +5,4 @@
 📹Enthusiastic in making film, video Youtube(https://studio.youtube.com/video/Jz7robbMdT0/edit)<br/>
 💭Currently learning about the basis of computer scinence and data structure<br/>
 
-[!Quan's github stats](https://github.com/anuraghazra/github-readme-stats)
+[!Quan's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
